@@ -37,3 +37,4 @@ Para este taller realice lo siguiente:
 ##### Nota : Para ver la ejecución de sus pruebas ir a https://travis-ci.org/stepquim/Monopolio
 ##### Nota : Para ver el porcentaje de cobertura de su rama ir a https://coveralls.io/github/stepquim/Monopolio.
 	
+[![Coverage Status](https://coveralls.io/repos/github/joyce-adri-jsm/temas/badge.svg?branch=master)](https://coveralls.io/github/joyce-adri-jsm/temas?branch=master)
